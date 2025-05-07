@@ -187,37 +187,7 @@
         "id": 19,
         "body": "Stroomstoring in Utrecht is verholpen, monitoring loopt nog.",
         "incidentsid": 19
-      },
-      {
-        "id": 20,
-        "body": "Beveiligingslek gepatcht in CRM-software.",
-        "incidentsid": 20
-      },
-      {
-        "id": 21,
-        "body": "Netwerkstoring in Amsterdam opgelost, root cause documentatie volgt.",
-        "incidentsid": 21
-      },
-      {
-        "id": 22,
-        "body": "Batchprocessen opnieuw gestart na incident.",
-        "incidentsid": 22
-      },
-      {
-        "id": 23,
-        "body": "Nieuwe firewallregels toegepast om datalekken te voorkomen.",
-        "incidentsid": 23
-      },
-      {
-        "id": 24,
-        "body": "Serveruitval geanalyseerd, oorzaak: defecte voedingseenheid.",
-        "incidentsid": 24
-      },
-      {
-        "id": 25,
-        "body": "Probleem met back-up systemen is definitief opgelost.",
-        "incidentsid": 25
-      }    
+      }  
   ],
   "users": [
     {
