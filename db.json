@@ -55,41 +55,6 @@
             "userid": 3,
             "body": "Op 7 mei 2025 om 12:30 uur werd een ongeautoriseerde inlogpoging gedetecteerd op een server in het secundaire datacenter.",
             "status": "Resolved"
-          },
-          {
-            "id": 9,
-            "title": "Incident 9",
-            "userid": 6,
-            "body": "Op 7 mei 2025 om 13:00 uur werd een stroomstoring gemeld bij een klantlocatie in Utrecht. Technici zijn onderweg om de situatie te evalueren.",
-            "status": "Pending"
-          },
-          {
-            "id": 10,
-            "title": "Incident 10",
-            "userid": 2,
-            "body": "Op 7 mei 2025 om 13:30 uur werd een vertraging gemeld in de verwerking van batchprocessen. Oorzaak is nog onbekend.",
-            "status": "In progress"
-          },
-          {
-            "id": 11,
-            "title": "Incident 11",
-            "userid": 7,
-            "body": "Op 7 mei 2025 om 14:00 uur trad een bug op in de factureringsmodule. Ontwikkelaars zijn bezig met het testen van een patch.",
-            "status": "In progress"
-          },
-          {
-            "id": 12,
-            "title": "Incident 12",
-            "userid": 8,
-            "body": "Op 7 mei 2025 om 14:30 uur werd een netwerkvertraging gemeld in de cloudomgeving. Onderzoek is gestart.",
-            "status": "Pending"
-          },
-          {
-            "id": 13,
-            "title": "Incident 13",
-            "userid": 4,
-            "body": "Op 7 mei 2025 om 15:00 uur werd een fout ontdekt in de rapportagemodule. Gebruikers kunnen momenteel geen rapporten genereren.",
-            "status": "Resolved"
           }
           ],
   "updates": [
