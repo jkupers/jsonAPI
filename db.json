@@ -4,31 +4,34 @@
       "id": 1,
       "title": "Incident 1",
       "userid": 1,
-      "body": "some body",
+      "body": "Op 7 mei 2025 om 09:30 uur werd een serveruitval gedetecteerd in het primaire datacenter. Dit heeft geleid tot een onderbreking van de dienstverlening voor meerdere klanten. Technici zijn bezig met het onderzoeken en oplossen van het probleem.",
       "status": "In progress"
     },
     {
       "id": 2,
       "title": "Incident 2",
       "userid": 2,
-      "body": "some body",
+      "body": "Op 7 mei 2025 om 08:45 uur werd een netwerkstoring gemeld bij een klantlocatie in Amsterdam. Dit heeft geleid tot verlies van internetverbinding en toegang tot bedrijfsapplicaties.",
       "status": "Pending"
         },
     {
       "id": 3,
-      "title": "Post 3"
-    }
+      "title": "Incident 3",
+      "userid": 2,
+      "body": "Op 7 mei 2025 om 08:45 uur werd een netwerkstoring gemeld bij een klantlocatie in Groningen. Dit heeft geleid tot verlies van internetverbinding en toegang tot bedrijfsapplicaties.",
+      "status": "Pending"
+        },
   ],
   "updates": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "Uitvraag bij leverancier loopt nog.",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "Follow up planned",
-      "postId": 2
+      "body": "Het IT-team is ter plaatse om het probleem op te lossen.",
+      "postId": 3
     }
   ],
   "users": [
@@ -37,42 +40,17 @@
       "name": "Dirk Bulker",
       "username": "Dbulker",
       "email": "Dbulker@fakedata.com",
-      "address": {
-        "street": "Kulas Light",
-        "suite": "Apt. 556",
-        "city": "Gwenborough",
-        "zipcode": "92998-3874",
-        "geo": {
-          "lat": "-37.3159",
-          "lng": "81.1496"
-        }
-      },
-      "phone": "1-770-736-8031 x56442",
-      "website": "hildegard.org",
-      "company": {
-        "name": "Romaguera-Crona",
-        "catchPhrase": "Multi-layered client-server neural-net",
-        "bs": "harness real-time e-markets"
-      }
+      "Team": "MWT"
     },
     {
       "id": 2,
       "name": "Evelien feur",
       "username": "EFeur",
       "email": "EFeur@fakedata.com",
-      "address": {
-        "street": "Victor Plains",
-        "suite": "Suite 879",
-        "city": "Wisokyburgh",
-        "zipcode": "90566-7771",
-        "geo": {
-          "lat": "-43.9509",
-          "lng": "-34.4618"
-        }  
-  }
-    }
+      "Team": "CT1"        
+    }    
   ],
   "profile": {
-    "name": "typicode"
+    "name": "jkupers"
 }
 }
