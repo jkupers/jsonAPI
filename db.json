@@ -1,25 +1,19 @@
 {
-  "incidents": [
+  "posts": [
     {
       "id": 1,
-      "title": "Incident 1",
-      "userid": 1,
-      "body": "some body",
-      "status": "In progress",
+      "title": "Post 1"
     },
     {
       "id": 2,
-      "title": "Incident 2",
-      "userid": 1,
-      "body": "some body",
-      "status": "Pending",
+      "title": "Post 2"
     },
     {
       "id": 3,
       "title": "Post 3"
     }
   ],
-  "updates": [
+  "comments": [
     {
       "id": 1,
       "body": "some comment",
@@ -27,8 +21,8 @@
     },
     {
       "id": 2,
-      "body": "Follow up planned",
-      "postId": 2
+      "body": "some comment",
+      "postId": 1
     }
   ],
   "profile": {
