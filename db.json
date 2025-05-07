@@ -20,19 +20,204 @@
       "userid": 2,
       "body": "Op 7 mei 2025 om 08:45 uur werd een netwerkstoring gemeld bij een klantlocatie in Groningen. Dit heeft geleid tot verlies van internetverbinding en toegang tot bedrijfsapplicaties.",
       "status": "Pending"
-        }
-  ],
+        },
+        {
+            "id": 4,
+            "title": "Incident 4",
+            "userid": 3,
+            "body": "Op 7 mei 2025 om 10:15 uur werd een beveiligingslek gedetecteerd in de CRM-software. Het lek wordt momenteel onderzocht door het beveiligingsteam.",
+            "status": "In progress"
+          },
+          {
+            "id": 5,
+            "title": "Incident 5",
+            "userid": 4,
+            "body": "Op 7 mei 2025 om 11:00 uur was er een hardwarestoring in serverrack 5. Dit heeft geleid tot een verminderde prestaties van enkele applicaties.",
+            "status": "Resolved"
+          },
+          {
+            "id": 6,
+            "title": "Incident 6",
+            "userid": 1,
+            "body": "Op 7 mei 2025 om 11:30 uur werd een datalek gerapporteerd bij een klantlocatie in Rotterdam. Verdere details worden momenteel verzameld.",
+            "status": "Pending"
+          },
+          {
+            "id": 7,
+            "title": "Incident 7",
+            "userid": 5,
+            "body": "Op 7 mei 2025 om 12:00 uur trad een probleem op met de back-up systemen. Technici zijn bezig met het herstellen van de back-up processen.",
+            "status": "In progress"
+          },
+          {
+            "id": 8,
+            "title": "Incident 8",
+            "userid": 3,
+            "body": "Op 7 mei 2025 om 12:30 uur werd een ongeautoriseerde inlogpoging gedetecteerd op een server in het secundaire datacenter.",
+            "status": "Resolved"
+          },
+          {
+            "id": 9,
+            "title": "Incident 9",
+            "userid": 6,
+            "body": "Op 7 mei 2025 om 13:00 uur werd een stroomstoring gemeld bij een klantlocatie in Utrecht. Technici zijn onderweg om de situatie te evalueren.",
+            "status": "Pending"
+          },
+          {
+            "id": 10,
+            "title": "Incident 10",
+            "userid": 2,
+            "body": "Op 7 mei 2025 om 13:30 uur werd een vertraging gemeld in de verwerking van batchprocessen. Oorzaak is nog onbekend.",
+            "status": "In progress"
+          },
+          {
+            "id": 11,
+            "title": "Incident 11",
+            "userid": 7,
+            "body": "Op 7 mei 2025 om 14:00 uur trad een bug op in de factureringsmodule. Ontwikkelaars zijn bezig met het testen van een patch.",
+            "status": "In progress"
+          },
+          {
+            "id": 12,
+            "title": "Incident 12",
+            "userid": 8,
+            "body": "Op 7 mei 2025 om 14:30 uur werd een netwerkvertraging gemeld in de cloudomgeving. Onderzoek is gestart.",
+            "status": "Pending"
+          },
+          {
+            "id": 13,
+            "title": "Incident 13",
+            "userid": 4,
+            "body": "Op 7 mei 2025 om 15:00 uur werd een fout ontdekt in de rapportagemodule. Gebruikers kunnen momenteel geen rapporten genereren.",
+            "status": "Resolved"
+          }
+          ],
   "updates": [
     {
       "id": 1,
       "body": "Uitvraag bij leverancier loopt nog.",
-      "postId": 1
+      "incidentsid": 1
     },
     {
       "id": 2,
       "body": "Het IT-team is ter plaatse om het probleem op te lossen.",
-      "postId": 3
-    }
+      "incidentsid": 3
+    },
+    {
+        "id": 3,
+        "body": "Onderzoek naar de oorzaak van de netwerkstoring loopt nog.",
+        "incidentsid": 2
+      },
+      {
+        "id": 4,
+        "body": "Technici hebben een nieuwe update geïnstalleerd om de bug te verhelpen.",
+        "incidentsid": 4
+      },
+      {
+        "id": 5,
+        "body": "De patch wordt momenteel getest.",
+        "incidentsid": 5
+      },
+      {
+        "id": 6,
+        "body": "De hardware is vervangen en de prestaties worden gemonitord.",
+        "incidentsid": 2
+      },
+      {
+        "id": 7,
+        "body": "Datalekken worden onderzocht door het beveiligingsteam.",
+        "incidentsid": 7
+      },
+      {
+        "id": 8,
+        "body": "Backup systeem werkt weer naar behoren.",
+        "incidentsid": 2
+      },
+      {
+        "id": 9,
+        "body": "Het systeem wordt opnieuw opgestart na onderhoud.",
+        "incidentsid": 9
+      },
+      {
+        "id": 10,
+        "body": "Extra monitoringssystemen zijn geïnstalleerd.",
+        "incidentsid": 10
+      },
+      {
+        "id": 11,
+        "body": "Vertraging in batchprocessen opgelost door optimalisatie.",
+        "incidentsid": 11
+      },
+      {
+        "id": 12,
+        "body": "Factureringsmodule patch is uitgerold naar productie.",
+        "incidentsid": 12
+      },
+      {
+        "id": 13,
+        "body": "Netwerkvertraging in cloudomgeving verholpen door load balancer update.",
+        "incidentsid": 13
+      },
+      {
+        "id": 14,
+        "body": "Gebruikers kunnen weer rapporten genereren na herstelactie.",
+        "incidentsid": 14
+      },
+      {
+        "id": 15,
+        "body": "Incidentanalyse is gestart voor netwerkuitval in Groningen.",
+        "incidentsid": 15
+      },
+      {
+        "id": 16,
+        "body": "Technici hebben serverrack gecontroleerd en vervangen.",
+        "incidentsid": 16
+      },
+      {
+        "id": 17,
+        "body": "Onderhoud aan het primaire datacenter is gepland voor morgen.",
+        "incidentsid": 17
+      },
+      {
+        "id": 18,
+        "body": "Ongeautoriseerde inlogpoging onderzocht, geen verdere actie nodig.",
+        "incidentsid": 18
+      },
+      {
+        "id": 19,
+        "body": "Stroomstoring in Utrecht is verholpen, monitoring loopt nog.",
+        "incidentsid": 19
+      },
+      {
+        "id": 20,
+        "body": "Beveiligingslek gepatcht in CRM-software.",
+        "incidentsid": 20
+      },
+      {
+        "id": 21,
+        "body": "Netwerkstoring in Amsterdam opgelost, root cause documentatie volgt.",
+        "incidentsid": 21
+      },
+      {
+        "id": 22,
+        "body": "Batchprocessen opnieuw gestart na incident.",
+        "incidentsid": 22
+      },
+      {
+        "id": 23,
+        "body": "Nieuwe firewallregels toegepast om datalekken te voorkomen.",
+        "incidentsid": 23
+      },
+      {
+        "id": 24,
+        "body": "Serveruitval geanalyseerd, oorzaak: defecte voedingseenheid.",
+        "incidentsid": 24
+      },
+      {
+        "id": 25,
+        "body": "Probleem met back-up systemen is definitief opgelost.",
+        "incidentsid": 25
+      }    
   ],
   "users": [
     {
@@ -48,7 +233,112 @@
       "username": "EFeur",
       "email": "EFeur@fakedata.com",
       "Team": "CT1"        
-    }    
+    },
+    {
+        "id": 3,
+        "name": "Jan de Vries",
+        "username": "JdeVries",
+        "email": "JdeVries@fakedata.com",
+        "Team": "MWT"
+      },
+      {
+        "id": 4,
+        "name": "Sophie Kraal",
+        "username": "SKraal",
+        "email": "SKraal@fakedata.com",
+        "Team": "CT2"
+      },
+      {
+        "id": 5,
+        "name": "Tommy Bekker",
+        "username": "TBekker",
+        "email": "TBekker@fakedata.com",
+        "Team": "MWT"
+      },
+      {
+        "id": 6,
+        "name": "Anouk Lente",
+        "username": "ALente",
+        "email": "ALente@fakedata.com",
+        "Team": "CT1"
+      },
+      {
+        "id": 7,
+        "name": "Pieter Vos",
+        "username": "PVos",
+        "email": "PVos@fakedata.com",
+        "Team": "CT3"
+      },
+      {
+        "id": 8,
+        "name": "Inge Hoogland",
+        "username": "IHoogland",
+        "email": "IHoogland@fakedata.com",
+        "Team": "MWT"
+      },
+      {
+        "id": 9,
+        "name": "Kees van Dam",
+        "username": "KvanDam",
+        "email": "KvanDam@fakedata.com",
+        "Team": "CT2"
+      },
+      {
+        "id": 10,
+        "name": "Fleur Jansen",
+        "username": "FJansen",
+        "email": "FJansen@fakedata.com",
+        "Team": "CT3"
+      },
+      {
+        "id": 11,
+        "name": "Rik Peters",
+        "username": "RPeters",
+        "email": "RPeters@fakedata.com",
+        "Team": "MWT"
+      },
+      {
+        "id": 12,
+        "name": "Lotte Brouwer",
+        "username": "LBrouwer",
+        "email": "LBrouwer@fakedata.com",
+        "Team": "CT1"
+      },
+      {
+        "id": 13,
+        "name": "Mark van Leeuwen",
+        "username": "MvanLeeuwen",
+        "email": "MvanLeeuwen@fakedata.com",
+        "Team": "CT2"
+      },
+      {
+        "id": 14,
+        "name": "Sara Verhoeven",
+        "username": "SVerhoeven",
+        "email": "SVerhoeven@fakedata.com",
+        "Team": "CT3"
+      },
+      {
+        "id": 15,
+        "name": "Danny Bos",
+        "username": "DBos",
+        "email": "DBos@fakedata.com",
+        "Team": "MWT"
+      },
+      {
+        "id": 16,
+        "name": "Linda Koopman",
+        "username": "LKoopman",
+        "email": "LKoopman@fakedata.com",
+        "Team": "CT2"
+      },
+      {
+        "id": 17,
+        "name": "Erik Wouters",
+        "username": "EWouters",
+        "email": "EWouters@fakedata.com",
+        "Team": "CT1"
+      }        
   ],
   "profile": {
     "name": "jkupers"
